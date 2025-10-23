@@ -26,7 +26,7 @@ This repository will contain my collection of Python OOP activities.
 ## 🛠️ Projects
 
 ### 📘 Midterms
-- [Project 1 ](#)  
+- [Lab Task 1: Object-Oriented Analysis](https://sg.docworkspace.com/d/sILH89p3yAYDb58cG?sa=601.1074)  
 - [Project 2 ](#)  
 
 ### 🎓 Finals
