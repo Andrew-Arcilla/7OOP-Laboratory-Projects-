@@ -27,7 +27,7 @@ This repository will contain my collection of Python OOP activities.
 
 ### 📘 Midterms
 - [Lab Task 1: Object-Oriented Analysis](https://sg.docworkspace.com/d/sILH89p3yAYDb58cG?sa=601.1074)  
-- [Project 2 ](#)  
+- [Lab Task 2: Using Loops and Functions](https://sg.docworkspace.com/d/sIGL89p3yAaGT68cG?sa=601.1074)  
 
 ### 🎓 Finals
 - [Project 1 ](#)  
