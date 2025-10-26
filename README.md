@@ -29,7 +29,7 @@ This repository will contain my collection of Python OOP activities.
 - [Lab Task 1](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/main/MidtermLabTask1.pdf)  
 - [Lab Task 2: Using Loops and Functions](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/main/MidtermLabTask2.pdf)  
 - [Lab Task 3: Using List and Collection Types](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/main/MidtermLabTask3.pdf)
-- [Lab Task 4: Using Dictionaries](#)
+- [Lab Task 4: Using Dictionaries](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/main/MidtermLabTask4.pdf)
 - [Lab Task 5](#)
 
 
