@@ -35,8 +35,7 @@ This repository will contain my collection of Python OOP activities.
 
 
 ### 🎓 Finals
-- [Project 1 ](#)  
-- [Project 2 ](#)  
+
 
 ## 😎 Fun Facts About Me
 - 🎧 I love listening to music while I'm doing something 
