@@ -26,6 +26,7 @@ This repository will contain my collection of Python OOP activities.
 ## 🛠️ Projects
 
 ### 📘 Midterms
+- [Paired Task 1: Object Oriented Analysis](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/main/PairedtaskObjectOrientedAnalysis.pdf)
 - [Lab Task 1](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/main/MidtermLabTask1.pdf)  
 - [Lab Task 2: Using Loops and Functions](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/main/MidtermLabTask2.pdf)  
 - [Lab Task 3: Using List and Collection Types](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/main/MidtermLabTask3.pdf)
