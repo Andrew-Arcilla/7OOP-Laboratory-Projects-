@@ -37,6 +37,7 @@ This repository will contain my collection of Python OOP activities.
 ### 🎓 Finals
 - [Lab Task 1: Encapsulation](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/4c0062fb986e0e418359fb7aa8687cc74691cf65/Arcilla_LabTask1Finals.pdf)
 - [Lab Task 2: Inheritance](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/61f60aea0992e045a973cb961ee55373a8e58f19/Arcilla_LabTask2Finals.pdf)
+- [Lab Task:](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/03b195a2eab593c9c91b1fc5a3fcc434917c3e6c/Arcilla_LabTask3Finals.pdf)
 
 ## 😎 Fun Facts About Me
 - 🎧 I love listening to music while I'm doing something 
