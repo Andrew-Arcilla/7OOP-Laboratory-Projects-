@@ -40,6 +40,7 @@ This repository will contain my collection of Python OOP activities.
 - [Lab Task 3: Polymorphism](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/03b195a2eab593c9c91b1fc5a3fcc434917c3e6c/Arcilla_LabTask3Finals.pdf)
 - [Lab Task 4: Python and Tkinter GUI Program](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/b8d8d6d770c2478e02a83bd38a0a725a80a6c5e3/Arcilla_FinalsLabTask4.pdf)
 - [Lab Task 5: CRUD CLI using Python and MySQL](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/fcc6e0e77f9430503da5281c1cfa84114eabe276/Arcilla_FinalsLabTask5.pdf)
+- [Lab Task 6: GUI CRUD](https://github.com/Andrew-Arcilla/7OOP-Laboratory-Projects-/blob/95e1e16210f26a0d95c359be4c1f8db7c901c0a6/Finals%20Lab%20Task%206%20GUI%20CRUD.pdf)
   
 ## 😎 Fun Facts About Me
 - 🎧 I love listening to music while I'm doing something 
